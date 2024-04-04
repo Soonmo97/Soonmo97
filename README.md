@@ -4,7 +4,7 @@
 <h3> Soonmo Kwon Github </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
-<div margin-top="30px">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soonmo97)](https://github.com/anuraghazra/github-readme-stats)</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soonmo97)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soonmo97&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
