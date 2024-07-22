@@ -1,7 +1,7 @@
 <div align="center">
   
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7EA&height=150&section=header" />
-<h3> Soonmo's Github </h3>
+<h3> SoonMo's Github </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7EA&height=150&section=footer" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soonmo97)](https://github.com/anuraghazra/github-readme-stats)
