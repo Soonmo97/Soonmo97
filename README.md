@@ -3,6 +3,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7EA&height=150&section=header" />
 <h3> Soonmo's Github </h3>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=76D7EA&height=150&section=footer" />
+<br>
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soonmo97)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soonmo97&hide=contribs,prs&show_icons=true&theme=)
