@@ -6,8 +6,6 @@
 
 <br>
 <hr>
-<h4>안녕하세요. 웹(백엔드) 개발자 권순모입니다.</h4>
-<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soonmo97)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soonmo97&hide=contribs,prs&show_icons=true&theme=)
